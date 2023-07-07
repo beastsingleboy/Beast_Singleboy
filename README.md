@@ -43,7 +43,7 @@ To get download and stream links, just forward any file to the bot.
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/shadow_bots)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/+lgUuGezwyQthODNl)
 
 
-You can PM me on [@ooom09](https://telegram.me/ooom09)
+You can PM me on [@ooom09](https://telegram.me/+lgUuGezwyQthODNl)

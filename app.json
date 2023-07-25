@@ -24,9 +24,6 @@
         "APP_NAME": {
             "description": "Copy Paste app name that you type it above"
         },
-        "ARCHIVE_CHANNEL_ID": {
-            "description": "Create a new channel, post anything in the channel, forward the post to @message_ids_bot, now copy paste chat_forward in this field"
-        },
         "Start_Message": {
             "description": "The bot will send this message when user send /start",
             "value": "Hello, Send me any file to get download and Stream links"
@@ -34,9 +31,10 @@
         "Session_String": {
             "description": "[Optional] Pyrogram Session String, use session_generator.py to generate it, If you don't add it the bot will create a new session every Restarting.",
             "required": false
+        "channel username": "username of our channel"
         },
         "Bot_Channel_UserName": {
-            "description": "[Optional] The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel",
+            "description": "The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel",
             "required": false
         }
     },
